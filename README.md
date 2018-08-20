@@ -13,4 +13,6 @@ warpctc
 
 执行命令：python3 crnn_new.py
 
+pretrain-models和save_models文件夹下的模型文件，从给定的百度网盘先下载到对应文件夹中
+
 核心代码，加个微信聊下？
