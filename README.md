@@ -12,3 +12,5 @@ warpctc
 主要内容在crnn_new.py中，包含了训练和测试的代码
 
 执行命令：python3 crnn_new.py
+
+核心代码，加个微信聊下？
